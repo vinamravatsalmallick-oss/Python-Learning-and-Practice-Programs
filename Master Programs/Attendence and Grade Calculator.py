@@ -1,4 +1,4 @@
-# Day 4 Practise set of Python
+# Day 4 of Python
 
 a = int(input("Enter Your Present days in School:"))
 e = int(input("Enter Total number of School days:"))
@@ -35,4 +35,5 @@ else:
     print("Attendence requirement is not matched")
     
  
+
     
