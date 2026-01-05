@@ -1,5 +1,3 @@
-# Python-Learning-and-Practice-Programs
-
 # Python Practice Repository
 
 This repository contains my day-wise Python practice programs.
